@@ -1,0 +1,4 @@
+{
+    "port": 1337,
+    "database_url": "postgres://postgres:azeqsd@localhost:32770/postgres"
+}
